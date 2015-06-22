@@ -1,0 +1,7 @@
+C:\Users\Mariusz\Documents\Visual Studio 2013\Projects\Exam_70511\MY_EXAM_PROJECTS\TestMethods\TestMethods\bin\Debug\TestMethods.exe.config
+C:\Users\Mariusz\Documents\GitHub\TestMethod\TestMethods\TestMethods\bin\Debug\TestMethods.exe.config
+C:\Users\Mariusz\Documents\GitHub\TestMethod\TestMethods\TestMethods\bin\Debug\TestMethods.exe
+C:\Users\Mariusz\Documents\GitHub\TestMethod\TestMethods\TestMethods\bin\Debug\TestMethods.pdb
+C:\Users\Mariusz\Documents\GitHub\TestMethod\TestMethods\TestMethods\obj\Debug\TestMethods.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Documents\GitHub\TestMethod\TestMethods\TestMethods\obj\Debug\TestMethods.exe
+C:\Users\Mariusz\Documents\GitHub\TestMethod\TestMethods\TestMethods\obj\Debug\TestMethods.pdb
